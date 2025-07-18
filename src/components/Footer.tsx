@@ -13,10 +13,10 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { icon: Twitter, href: '#' },
-    { icon: Github, href: '#' },
-    { icon: Linkedin, href: '#' },
-    { icon: Mail, href: '#' }
+    { icon: Twitter, href: 'https://x.com/Phoenixtech5683' },
+    { icon: Github, href: 'https://github.com/Alven5683' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/company/phoenix-tech-group-1/?viewAsMember=true' },
+    { icon: Mail, href: 'phoenixtechgroup1998@gmail.com' }
   ];
 
   return (

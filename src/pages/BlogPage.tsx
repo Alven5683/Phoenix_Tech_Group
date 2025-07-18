@@ -33,7 +33,7 @@ const BlogPage = () => {
               className="text-center mb-16"
             >
               <h1 className="text-5xl md:text-6xl font-bold text-black mb-6">
-                ORBAI Blog
+                Phoenix Blog
               </h1>
               <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                 Insights, updates, and stories from the future of AI-powered creativity

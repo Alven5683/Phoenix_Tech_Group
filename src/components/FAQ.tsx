@@ -7,33 +7,45 @@ const FAQ = () => {
 
   const faqs = [
     {
-      question: 'What makes ORBAI different from other AI platforms?',
-      answer: 'ORBAI combines powerful AI capabilities with intuitive no-code tools, making advanced AI accessible to everyone. Our platform offers custom AI models, real-time collaboration, and enterprise-grade security in one comprehensive solution.'
+      question: 'What services does Phoenix Tech Group offer?',
+      answer:
+        'We specialize in custom software development, web and mobile app development, UI/UX design, cloud integration, and product consulting tailored to your business needs.',
     },
     {
-      question: 'How quickly can I deploy an AI solution?',
-      answer: 'With ORBAI, you can deploy AI solutions in minutes, not months. Our pre-built templates and no-code builder allow you to create and launch AI-powered applications instantly.'
+      question: 'How experienced is your development team?',
+      answer:
+        'Our team consists of highly skilled developers, designers, and project managers with years of experience delivering successful digital solutions across various industries.',
     },
     {
-      question: 'Do I need technical expertise to use ORBAI?',
-      answer: 'No technical expertise required! ORBAI is designed for everyone, from beginners to experts. Our intuitive interface and comprehensive documentation make it easy to get started.'
+      question: 'Do you offer end-to-end project development?',
+      answer:
+        'Yes, we handle everything from ideation and design to development, testing, deployment, and post-launch support, ensuring a seamless experience throughout the lifecycle of your project.',
     },
     {
-      question: 'What kind of support do you offer?',
-      answer: 'We provide 24/7 support through multiple channels including email, chat, and phone. Enterprise customers also get dedicated account managers and priority support.'
+      question: 'Can you work with existing systems or projects?',
+      answer:
+        'Absolutely! We can integrate with your existing systems, improve legacy code, or pick up ongoing projects to bring them to completion efficiently.',
     },
     {
-      question: 'Can I customize the AI models for my specific needs?',
-      answer: 'Absolutely! ORBAI allows you to create custom AI models tailored to your specific use case, data, and requirements. Our platform provides the tools and flexibility you need.'
+      question: 'What technologies do you work with?',
+      answer:
+        'We work with modern and scalable technologies including React, Next.js, Node.js, Python, Flutter, AWS, Firebase, MongoDB, and more based on your project requirements.',
     },
     {
-      question: 'Is my data secure with ORBAI?',
-      answer: 'Yes, we take security seriously. ORBAI uses bank-grade encryption, complies with industry standards, and offers on-premise deployment options for enterprise customers.'
-    }
+      question: 'How do you ensure project confidentiality and security?',
+      answer:
+        'We take confidentiality seriously and are happy to sign NDAs. We follow strict data security protocols and best practices to keep your project and information safe.',
+    },
   ];
 
   return (
     <section id="faq" className="py-20 bg-gray-50">
+      <button className="bg-white shadow-md rounded-full px-4 py-1 text-sm font-semibold flex items-center mx-auto mb-4">
+          <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M3 10h11M9 21V3m13 18V7a2 2 0 00-2-2h-6" />
+          </svg>
+          Frequently Asked Questions
+        </button>
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -46,7 +58,7 @@ const FAQ = () => {
             Frequently Asked Questions
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Find answers to common questions about ORBAI and how it can help your business.
+            Find answers to common questions about our software development services.
           </p>
         </motion.div>
 
