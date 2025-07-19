@@ -33,7 +33,7 @@ const Footer = () => {
           {/* Logo */}
           <div className="flex items-center justify-center space-x-3 mb-8">
             <Zap className="h-8 w-8 text-white" />
-            <span className="text-2xl font-bold">ORBAI</span>
+            <span className="text-2xl font-bold">Phoenix Tech Group</span>
           </div>
 
           {/* Navigation Links */}
