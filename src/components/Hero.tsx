@@ -66,6 +66,7 @@ const Hero = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="border-2 border-black text-black px-8 py-4 rounded-full font-semibold text-lg hover:bg-black hover:text-white transition-colors"
+              onClick={() => window.location.href = '/portfolio'}
             >
               View Portfolio
             </motion.button>
