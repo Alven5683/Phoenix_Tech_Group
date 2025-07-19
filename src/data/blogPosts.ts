@@ -56,9 +56,9 @@ export const blogPosts: BlogPost[] = [
       
       <p>At ORBAI, we're committed to building tools that empower creators rather than replace them. Our platform provides the AI capabilities you need while keeping you in control of your creative vision.</p>
     `,
-    image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://www.shutterstock.com/image-photo/aipowered-technology-innovations-transforming-digital-600nw-2620882953.jpg?auto=compress&cs=tinysrgb&w=800",
     category: "AI Technology",
-    date: "March 15, 2024",
+    date: "May 15, 2025",
     readTime: "5 min read",
     author: {
       name: "Sarah Chen",
@@ -132,9 +132,9 @@ export const blogPosts: BlogPost[] = [
       <h2>Conclusion</h2>
       <p>Building AI applications is an iterative process that requires patience and experimentation. With platforms like ORBAI, you can accelerate your development process and focus on solving real problems rather than managing infrastructure.</p>
     `,
-    image: "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://www.shutterstock.com/image-photo/chatgpt-chat-ai-artificial-intelligence-600nw-2252587299.jpg?auto=compress&cs=tinysrgb&w=800",
     category: "Tutorials",
-    date: "March 12, 2024",
+    date: "May 12, 2025",
     readTime: "8 min read",
     author: {
       name: "Michael Rodriguez",
@@ -210,9 +210,9 @@ export const blogPosts: BlogPost[] = [
       
       <p>Ready to experience ORBAI 2.0? Upgrade your account today and discover the future of AI-powered creativity.</p>
     `,
-    image: "https://images.pexels.com/photos/590016/pexels-photo-590016.jpg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://www.shutterstock.com/image-photo/countdown-2024-concept-taps-virtual-600nw-2329835503.jpg?auto=compress&cs=tinysrgb&w=800",
     category: "Product Updates",
-    date: "March 10, 2024",
+    date: "April 10, 2025",
     readTime: "6 min read",
     author: {
       name: "Alex Thompson",
@@ -280,9 +280,9 @@ export const blogPosts: BlogPost[] = [
       <h2>Conclusion</h2>
       <p>Building ethical AI systems is not just a technical challenge—it's a moral imperative. By prioritizing ethics in AI development, we can create technology that truly serves humanity's best interests.</p>
     `,
-    image: "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://www.shutterstock.com/image-photo/ai-transforming-society-raising-important-600nw-2651191499.jpg?auto=compress&cs=tinysrgb&w=800",
     category: "Industry Insights",
-    date: "March 8, 2024",
+    date: "April 8, 2025",
     readTime: "7 min read",
     author: {
       name: "Dr. Emily Watson",
@@ -398,9 +398,9 @@ export const blogPosts: BlogPost[] = [
       <h2>Conclusion</h2>
       <p>Both machine learning and deep learning have their place in the AI toolkit. The choice depends on your specific use case, data availability, and resource constraints. Understanding these differences will help you make informed decisions for your AI projects.</p>
     `,
-    image: "https://images.pexels.com/photos/590022/pexels-photo-590022.jpg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://www.shutterstock.com/image-vector/machine-learning-vs-deep-vector-600nw-2389013825.jpg?auto=compress&cs=tinysrgb&w=800",
     category: "AI Technology",
-    date: "March 5, 2024",
+    date: "March 5, 2025",
     readTime: "9 min read",
     author: {
       name: "David Kim",
@@ -492,9 +492,9 @@ export const blogPosts: BlogPost[] = [
       <h2>Conclusion</h2>
       <p>Scaling AI applications requires a holistic approach covering infrastructure, models, data, and operations. By following these best practices and leveraging platforms like ORBAI, you can build AI systems that grow with your business needs.</p>
     `,
-    image: "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://image.shutterstock.com/image-photo/machine-learning-data-analysis-algorithms-260nw-2624831423.jpg?auto=compress&cs=tinysrgb&w=800",
     category: "Industry Insights",
-    date: "March 3, 2024",
+    date: "March 30, 2025",
     readTime: "10 min read",
     author: {
       name: "Maria Garcia",
