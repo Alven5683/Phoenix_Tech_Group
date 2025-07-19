@@ -47,8 +47,8 @@ const ContactUs = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M16 12H8m8 0a4 4 0 01-8 0m8 0a4 4 0 00-8 0m8 0v4a2 2 0 01-2 2H8a2 2 0 01-2-2v-4" />
               ),
               text: 'Feel free to email me if you have any questions or need more details!',
-              linkText: 'orbai@support.com',
-              linkHref: 'mailto:orbai@support.com',
+              linkText: 'phoenixtechgroup1998@gmail.com',
+              linkHref: 'mailto:phoenixtechgroup1998@gmail.com',
             },
             {
               icon: (
