@@ -8,37 +8,37 @@ const AllFeatures = () => {
       icon: Brain,
       title: 'AI Content Creation',
       description: 'Generate SEO-friendly articles, product descriptions, and landing pages in seconds.',
-      image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://image.shutterstock.com/image-vector/artificial-intelligence-icon-mobile-app-260nw-2584260933.jpg?auto=compress&cs=tinysrgb&w=600'
     },
     {
       icon: Code2,
       title: 'Modern Web Development',
       description: 'We build blazing-fast websites using Next.js, Tailwind CSS, and headless CMS technologies.',
-      image: 'https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://www.shutterstock.com/shutterstock/videos/3619810411/thumb/8.jpg?ip=x480?auto=compress&cs=tinysrgb&w=600'
     },
     {
       icon: Search,
       title: 'Advanced SEO Automation',
       description: 'On-page audits, backlink tracking, keyword clustering — all automated with real-time data.',
-      image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://www.shutterstock.com/shutterstock/videos/3657773179/thumb/12.jpg?ip=x480?auto=compress&cs=tinysrgb&w=600'
     },
     {
       icon: Server,
       title: 'Scalable Hosting & Deployment',
       description: 'Deployed on Vercel, Cloudflare, or GCP for top performance and reliability.',
-      image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://www.shutterstock.com/shutterstock/videos/3709496907/thumb/1.jpg?ip=x480?auto=compress&cs=tinysrgb&w=600'
     },
     {
       icon: Settings2,
       title: 'Automation Workflows',
       description: 'Connect tools like Zapier, Make, or custom scripts to automate daily marketing operations.',
-      image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://www.shutterstock.com/shutterstock/videos/3674111535/thumb/11.jpg?ip=x480?auto=compress&cs=tinysrgb&w=600'
     },
     {
       icon: Globe2,
       title: 'Global Reach Campaigns',
       description: 'Multi-language SEO, region-specific link building, and global content strategies.',
-      image: 'https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://www.shutterstock.com/image-photo/business-man-point-people-many-260nw-2378068869.jpg?auto=compress&cs=tinysrgb&w=600'
     }
   ];
 
@@ -94,3 +94,4 @@ const AllFeatures = () => {
 };
 
 export default AllFeatures;
+
