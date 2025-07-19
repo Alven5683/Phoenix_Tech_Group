@@ -1,9 +1,9 @@
 import React from 'react';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Navigate } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import BlogPage from './pages/BlogPage';
 import BlogDetailPage from './pages/BlogDetailPage';
-import AboutUsPage from './pages/AboutUs';
+import AboutUs from './pages/AboutUs';
 
 function App() {
   return (
@@ -12,7 +12,8 @@ function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/blog" element={<BlogPage />} />
         <Route path="/blog/:slug" element={<BlogDetailPage />} />
-        <Route path="/about" element={<AboutUsPage />} />
+        <Route path="/about" element={<AboutUs />} />
+        <Route path="/AboutUs" element={<Navigate to="/about" replace />} />
       </Routes>
     </div>
   );
