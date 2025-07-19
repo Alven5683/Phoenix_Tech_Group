@@ -7,6 +7,7 @@ import AboutUs from './pages/AboutUs';
 import Policies from './pages/Policies';
 import PortfolioPage from './pages/PortfolioPage';
 import CaseStudyPage from './pages/CaseStudyPage';
+import ProjectEstimator from './pages/ProjectEstimator';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/policies" element={<Policies />} />
         <Route path="/portfolio" element={<PortfolioPage />} />
         <Route path="/portfolio/:slug" element={<CaseStudyPage />} />
+        <Route path="/project-estimator" element={<ProjectEstimator />} />
       </Routes>
     </div>
   );

@@ -58,6 +58,7 @@ const Hero = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="bg-black text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-gray-800 transition-colors flex items-center space-x-2"
+              onClick={() => window.location.href = '/project-estimator'}
             >
               <span>Start Your Project</span>
               <ArrowRight className="h-5 w-5" />
