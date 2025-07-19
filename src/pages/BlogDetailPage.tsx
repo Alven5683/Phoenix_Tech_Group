@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useParams, Link, Navigate } from 'react-router-dom';
-import { Calendar, User, ArrowLeft, Share2, BookOpen } from 'lucide-react';
+import { Calendar, User, ArrowLeft, ArrowRight, Share2, BookOpen } from 'lucide-react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { blogPosts } from '../data/blogPosts';
