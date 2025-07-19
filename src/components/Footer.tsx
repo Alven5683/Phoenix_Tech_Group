@@ -75,7 +75,10 @@ const Footer = () => {
           {/* Copyright */}
           <div className="border-t border-gray-800 pt-8">
             <p className="text-gray-400">
-              © 2024 ORBAI. All rights reserved. Built with passion for the future of AI.
+              © 2025 Phoenix Tech Group. All rights reserved. Built with passion for the future of AI.
+            </p>
+            <p className="text-gray-400 mt-2">
+              Phoenix Tech Group – Registered U.S. LLC, EIN: 39-2674952 
             </p>
           </div>
         </motion.div>
