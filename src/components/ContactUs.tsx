@@ -65,7 +65,7 @@ const ContactUs = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 21c-4.418 0-8-3.582-8-8 0-3.866 3.134-7 7-7 3.866 0 7 3.134 7 7 0 4.418-3.582 8-8 8z" />
                 </>
               ),
-              text: `913 Westport Dr, Dexter, MO 63841, United States`,
+              text: `215 Sundrop Ct, Eureka. MO 63025, United States`,
               linkText: '',
               linkHref: '',
             },

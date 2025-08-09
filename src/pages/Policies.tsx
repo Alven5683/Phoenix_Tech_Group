@@ -13,7 +13,7 @@ const Policies = () => {
         <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-4">Privacy Policy</h2>
           <p className="text-gray-700 mb-4">
-            At Phoenix Tech Group, your privacy is a top priority. We collect only essential information such as your name, email, and project details to provide services efficiently. This data is never sold or shared with third parties without your consent.
+            At Phoenix Creative Group, your privacy is a top priority. We collect only essential information such as your name, email, and project details to provide services efficiently. This data is never sold or shared with third parties without your consent.
           </p>
           <p className="text-gray-700 mb-4">
             All communication and data exchange is protected using industry-standard encryption. You may request access, modification, or deletion of your data at any time by contacting us at <strong>support@phoenixtechgroup.com</strong>.
@@ -45,7 +45,7 @@ const Policies = () => {
         <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-4">Refund Policy</h2>
           <p className="text-gray-700 mb-4">
-            At Phoenix Tech Group, we strive for 100% client satisfaction. However, due to the nature of custom software and digital marketing services, we follow the below refund policy:
+            At Phoenix Creative Group, we strive for 100% client satisfaction. However, due to the nature of custom software and digital marketing services, we follow the below refund policy:
           </p>
           <ul className="list-disc ml-6 text-gray-700 space-y-2 mb-4">
             <li><strong>Project Cancellation:</strong> If canceled within 3 days of payment and before any work has begun, a full refund is applicable.</li>

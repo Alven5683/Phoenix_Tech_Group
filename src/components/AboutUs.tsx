@@ -9,7 +9,7 @@ const AboutUs = () => {
           We are a modern digital marketing agency dedicated to helping small to medium-sized businesses, startups, and online brands grow their online presence and generate more leads. Our mission is to deliver custom, responsive, and SEO-friendly solutions that drive real results and boost your brand online.
         </p>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto mt-4">
-          Phoenix Tech Group – Registered U.S. LLC, EIN: XX‑XXXXXXX
+          Phoenix Creative Group – Registered U.S. LLC, EIN: XX‑XXXXXXX
         </p>
       </div>
     </section>

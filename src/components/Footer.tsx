@@ -33,7 +33,7 @@ const Footer = () => {
           {/* Logo */}
           <div className="flex items-center justify-center space-x-3 mb-8">
             <Zap className="h-8 w-8 text-white" />
-            <span className="text-2xl font-bold">Phoenix Tech Group</span>
+            <span className="text-2xl font-bold">Phoenix Creative Group</span>
           </div>
 
           {/* Navigation Links */}
@@ -76,10 +76,10 @@ const Footer = () => {
           {/* Copyright */}
           <div className="border-t border-gray-800 pt-8">
             <p className="text-gray-400">
-              © 2025 Phoenix Tech Group. All rights reserved. Built with passion for the future of AI.
+              © 2025 Phoenix Creative Group. All rights reserved. Built with passion for the future of AI.
             </p>
             <p className="text-gray-400 mt-2">
-              Phoenix Tech Group – Registered U.S. LLC, EIN: 39-2674952 
+              Phoenix Creative Group – Registered U.S. LLC, EIN: 39-3674390 
             </p>
           </div>
         </motion.div>

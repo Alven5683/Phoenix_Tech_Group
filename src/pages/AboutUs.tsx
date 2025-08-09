@@ -31,12 +31,12 @@ const AboutUsPage = () => {
 
           {/* Business Info */}
           <div className="text-md text-gray-700 font-semibold max-w-xl mx-auto mb-4">
-            Phoenix Tech Group – Registered U.S. LLC <br />
-            EIN: 39-2674952
+            Phoenix Creative Group – Registered U.S. LLC <br />
+            EIN: 39-3674390
           </div>
 
           <div className="text-sm text-gray-600 font-medium mb-10">
-            Business Address: 913 Westport Dr, Dexter, MO 63841, United States
+            Business Address: 215 Sundrop Ct, Eureka. MO 63025, United States
           </div>
 
           {/* Services */}

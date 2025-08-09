@@ -14,7 +14,7 @@ const Quote = () => {
           "AI isn’t just the future — it’s the tool we use today to automate success, accelerate growth, and create digital experiences that convert."
         </blockquote>
         <div className="mt-8 text-gray-500 font-medium">
-          — Phoenix Tech Group - Team
+          — Phoenix Creative Group - Team
         </div>
       </div>
     </motion.section>

@@ -12,8 +12,8 @@ const projects = [
   {
   slug: 'phoenix-agency-alpha',
   title: 'Phoenix Project Alpha – Predictive AI Analytics Dashboard',
-  summary: 'Developed by Phoenix Tech Group, this advanced AI dashboard delivers real-time data insights and trend forecasting.',
-  content: 'Phoenix Tech Group engineered an AI-powered analytics platform using React and a Python Flask backend. Designed for enterprise clients, it processes structured data to predict behavioral trends through machine learning models hosted on AWS Lambda. The project also features interactive visualizations using Chart.js and secure PostgreSQL data handling.',
+  summary: 'Developed by Phoenix Creative Group, this advanced AI dashboard delivers real-time data insights and trend forecasting.',
+  content: 'Phoenix Creative Group engineered an AI-powered analytics platform using React and a Python Flask backend. Designed for enterprise clients, it processes structured data to predict behavioral trends through machine learning models hosted on AWS Lambda. The project also features interactive visualizations using Chart.js and secure PostgreSQL data handling.',
   date: '2025-01-15',
   image: 'https://download.shutterstock.com/gatekeeper/W3siZCI6ICJzaHV0dGVyc3RvY2stdXBsb2FkcyIsICJrIjogInBlbmRpbmdfcGhvdG8vMzg0NDg3Mjc1NS9tZWRpdW0uanBnIiwgImUiOiAxNzUyOTc2ODU4LCAibSI6IDB9LCAiTTJ2RkZGVjRLTU9hNUo5TUxFek9xV1lxNHJzIl0=/3844872755_medium.jpg',
   skills: ['React', 'Python', 'Flask', 'Chart.js'],

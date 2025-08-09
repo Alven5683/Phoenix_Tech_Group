@@ -84,7 +84,7 @@ const WebsiteCostCalculator = () => {
   return (
     <>
       <Helmet>
-        <title>Website Cost Calculator | Phoenix Tech Group</title>
+        <title>Website Cost Calculator | Phoenix Creative Group</title>
         <meta
           name="description"
           content="Instantly calculate website design costs and request a proposal. Get pricing for business, eCommerce, and custom websites."

@@ -7,7 +7,7 @@ const FAQ = () => {
 
   const faqs = [
     {
-      question: 'What services does Phoenix Tech Group offer?',
+      question: 'What services does Phoenix Creative Group offer?',
       answer:
         'We specialize in custom software development, web and mobile app development, UI/UX design, cloud integration, and product consulting tailored to your business needs.',
     },

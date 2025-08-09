@@ -21,7 +21,7 @@ const Hero = () => {
             className="flex items-center justify-center space-x-3 mb-8"
           >
             <Zap className="h-16 w-16 text-black" />
-            <span className="text-4xl font-bold text-black">Phoenix Tech Group</span>
+            <span className="text-4xl font-bold text-black">Phoenix Creative Group</span>
           </motion.div>
 
           {/* Updated Tagline */}
