@@ -17,7 +17,7 @@ const Footer = () => {
     { icon: Twitter, href: 'https://x.com/Phoenixtech5683' },
     { icon: Github, href: 'https://github.com/Alven5683' },
     { icon: Linkedin, href: 'https://www.linkedin.com/company/phoenix-tech-group-1/?viewAsMember=true' },
-    { icon: Mail, href: 'phoenixtechgroup1998@gmail.com' }
+    { icon: Mail, href: 'info@phoenixcreativegroup.us' }
   ];
 
   return (
