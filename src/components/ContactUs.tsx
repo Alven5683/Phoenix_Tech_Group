@@ -56,7 +56,7 @@ const ContactUs = () => {
               ),
               text: 'Feel free to book a call if that’s more convenient and easier for you',
               linkText: 'Book a call',
-              linkHref: 'https://wa.me/9327230398?text=Hello',
+              linkHref: 'https://wa.me/9406187208?text=Hello',
             },
             {
               icon: (
